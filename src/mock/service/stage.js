@@ -1,0 +1,30 @@
+export default [
+    {
+        "id":"1",
+        "imgUrl":"images/service/stage/1.jpeg",
+    },
+    {
+        "id":"2",
+        "imgUrl":"images/service/stage/2.jpeg",
+    },
+    {
+        "id":"3",
+        "imgUrl":"images/service/stage/3.jpeg",
+    },
+    {
+        "id":"4",
+        "imgUrl":"images/service/stage/4.jpeg",
+    },
+    {
+        "id":"5",
+        "imgUrl":"images/service/stage/5.jpeg",
+    },
+    {
+        "id":"6",
+        "imgUrl":"images/service/stage/6.jpeg",
+    },
+    {
+        "id":"7",
+        "imgUrl":"images/service/stage/7.jpeg",
+    }
+]

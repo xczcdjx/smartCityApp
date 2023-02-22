@@ -1,0 +1,17 @@
+.page-nav-bar{
+    background-color: orange;
+}
+.page-nav-bar .van-nav-bar__title{
+    color: white;
+}
+/*.van-card__content>div{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}*/
+/*
+.van-card__content .like{
+    display: flex;
+    justify-content: space-around;
+}*/
